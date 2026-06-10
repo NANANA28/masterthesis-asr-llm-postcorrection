@@ -1,0 +1,2 @@
+Earnings-22 full dataset and official subset-10:
+https://github.com/revdotcom/speech-datasets/tree/main/earnings22
