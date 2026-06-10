@@ -1,4 +1,4 @@
-**ASR Error Correction Using Large Language Models under the 1-best Hypothesis Setting**
+# Master Thesis: ASR Error Correction Using Large Language Models under the 1-best Hypothesis Setting
 
 This repository contains the code, prompts, and metadata used in the master's thesis:
 ## Overview
