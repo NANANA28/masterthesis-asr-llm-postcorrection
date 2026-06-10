@@ -23,7 +23,7 @@ Evaluation metrics include:
 - Named Entity Error Rate (NEER)
 - Semantic Similarity
 
-## Datasets
+## Experiments
 
 Three experimental settings were used in this study.
 
